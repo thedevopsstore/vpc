@@ -4,7 +4,7 @@
 This code will create a VPC with two public subnets and two private subnets with internet gateway and natgateway for private subnet to communicate with internet
 
 
-git clone https://github.com/thedevopsstore/terraform-vpc-3.git
+git clone https://github.com/thedevopsstore/vpc.git
 
 ```
 cd vpc
